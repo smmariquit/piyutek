@@ -4,7 +4,7 @@ University tech initiatives. "Piyu" stands for FEU or just a university vibe.
 ## Quick Start
 ```python
 def graduate():
-    print("Finally done!")
+ print("Finally done!")
 ```
 
 ## 📊 Current State of the Code
