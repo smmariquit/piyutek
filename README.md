@@ -12,6 +12,5 @@ def graduate():
 - **Repository Size:** 5 tracked files
 - **Latest Update:** `c8b5d5b chore: add stale issue and PR validators`
 
-
 ---
 *☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
